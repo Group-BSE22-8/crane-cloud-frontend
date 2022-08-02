@@ -23,15 +23,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .vscode/
-.env
 
 debug.log
 .idea/crane-cloud-frontend.iml
 *.xml
 .idea
-.DS_Store
 
 
 *.lock
-yarn.lock
 yarn.lock
