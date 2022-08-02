@@ -26,3 +26,12 @@ yarn-error.log*
 .env
 
 debug.log
+.idea/crane-cloud-frontend.iml
+*.xml
+.idea
+.DS_Store
+
+
+*.lock
+yarn.lock
+yarn.lock
